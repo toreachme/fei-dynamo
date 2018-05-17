@@ -1,0 +1,182 @@
+
+/*fonts url*/
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+
+.section-font{
+	font-family: 'Libre Baskerville', serif;
+}
+
+
+
+/*Changed Bootstrap class*/
+a{
+	text-decoration: none !important;
+}
+.form-control{
+	border-radius: 0px !important;
+	padding: 12px !important; 
+}
+
+.btn-success{
+	padding: 8px 24px;
+	border-radius: 0px;
+	font-size: 16px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	min-height: 48px;
+}
+
+
+
+/*MY BG COLORS*/
+.bg-color{
+	background-color: #03082a !important;
+	/*background-color: rgba(3, 8, 42, 0.93) !important;*/
+}
+.bg-top-grey{
+	background-color: #ECECEB;
+}
+
+.bg-card-grey{
+	background-color: #6f6f6f;
+}
+
+
+
+/*MY Font Color*/
+.fc-grey{
+	color: #6f6f6f;
+}
+
+.fc-link{
+	color: #1517CA;
+}
+
+/*My Fonts Size*/
+.fs-14{
+	font-size: 14px;
+}
+
+.fs-16{
+	font-size: 16px;
+}
+
+.fs-12{
+	font-size: 12px;
+}
+
+.fs-20{
+	font-size: 20px;
+}
+
+.fs-24{
+	font-size: 24px;
+}
+
+.fs-49{
+	font-size: 49px;
+}
+
+
+
+/*My styles*/
+.lets{
+	font-size: 2.0rem !important;
+	font-weight: 200 !important;
+	line-height: 1.2 !important;
+}
+
+.navbardrop{
+	color: #fff !important;
+}
+
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+
+
+
+/*Boxed cntent arear*/
+
+.boxed-blue-bg{
+	background-color: #182DBD;
+	color: white;
+}
+.boxed-bg-dark{
+	background-color: #03082A;
+	color: white;
+}
+
+.boxed-content{
+	color: #fafafa;
+	font-size: 28px;
+	font-weight: 100;
+	line-height: 1.3;
+}
+
+.boxed-padding{
+	padding: 62px 130px 72px 125px;
+}
+.boxed-button-margin{
+	margin-top: 50px;
+	padding-top: 25px;
+}
+
+
+
+/*custom cards*/
+.mycard-header{
+	margin: -1px -1px 0 -1px !important;
+	font-size: 14px;
+}
+
+.mycard-title{
+	font-size: 18px;
+	word-wrap: break-word;
+	line-clamp: 3;
+	text-overflow: ellipsis;
+	font-weight: 700;
+	color: #03082A;
+}
+
+.mycard-text{
+	font-size: 16px;
+	line-clamp:5;
+	text-overflow: ellipsis;
+	font-weight: 500;
+	color: #888888;
+}
+
+.mycard-button{
+	border-radius: 50%;
+	background-color: #03082A;
+	height: 48px;
+	color: #fafafa;
+	line-height: 18px;
+	width: 48px;
+	vertical-align: middle;
+}
+
+.mycard-footer{
+	width: 100%;
+	box-sizing: border-box;
+}
+
+
+
+/*For Sticky footer*/
+
+/*html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin: 0 0 100px;
+    }*/
+
+/*.sticky-footer{
+	position: absolute;
+	bottom: 0;
+	}*/
