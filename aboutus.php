@@ -5,8 +5,8 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-md text-black bg-white p-5">
-        <h1 class="font-weight-bold fs-49">Services</h1>
-        <p class="text-secondary w-75 fs-20">We prepare your target business for review by our partner banks and SBA lenders</p>
+        <h1 class="font-weight-bold fs-49">About Us</h1>
+        <p class="text-secondary w-75 fs-20">Our Mission: Be regarded as the most professional and trusted M&A advisor for small and medium online businesses</p>
       </div>
     </div>
     <div class="row">
@@ -15,7 +15,7 @@
       </div>
     </div>
     <div class="row">
-      <h3 class="font-weight-bold pt-5 pl-5 fs-24">FE Services</h3>
+      <h3 class="font-weight-bold pt-5 pl-5 fs-24">Our Story</h3>
     </div>
     <div class="row">
       <div class="col-md-6 px-5 py-4 section-font fc-grey">
@@ -29,45 +29,15 @@
       <div class="pl-5 pb-5">
         <span class="fs-16 text-secondary font-weight-normal">Next</span>
         <a href="#">
-          <h4 class="font-weight-bold fc-link">Sell a Business  <span>&nbsp</span><i class="fas fa-arrow-right"></i></h4>
+          <h4 class="font-weight-bold fc-link">Hear from our Clients  <span>&nbsp</span><i class="fas fa-arrow-right"></i></h4>
         </a>
 
         <a href="#">
-          <h4 class="font-weight-bold fc-link">Buy a Business  <span>&nbsp</span><i class="fas fa-arrow-right"></i></h4>
+          <h4 class="font-weight-bold fc-link">Meet our Team   <span>&nbsp</span><i class="fas fa-arrow-right"></i></h4>
         </a>
       </div>
     </div>
   </div>
-
-
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-md bg-light text-secondary p-5">
-        <h4 class="font-weight-bold">Enquire about Financing Services</h4>
-
-        <form>
-          <div class="form-row mb-3">
-            <div class="col-md-3">
-              <label class="font-weight-bold">Your Name *</label>
-              <input class="form-control" type="text">
-            </div>
-            <div class="col-md-3">
-              <label class="font-weight-bold">Email *</label>
-              <input class="form-control" type="email">
-            </div>
-            <div class="col-md-3">
-              <label class="font-weight-bold">Business URL *</label>
-              <input class="form-control" placeholder="http://" type="email">
-            </div>
-            <div class="col-md-3 pt-4 mt-2">
-              <button type="submit" class="btn btn-success">Submit</button>
-            </div>
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-
 
 
   <div class="container-fluid bg-color sticky-footer">
