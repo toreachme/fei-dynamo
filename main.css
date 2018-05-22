@@ -42,6 +42,10 @@ a{
 	background-color: #6f6f6f;
 }
 
+.myborder-color-blue{
+	border-color: #0C0A9B !important;
+}
+
 
 
 /*MY Font Color*/
@@ -51,6 +55,10 @@ a{
 
 .fc-link{
 	color: #1517CA;
+}
+
+.fc-color-blue{
+	color: #182DBD;
 }
 
 /*My Fonts Size*/
