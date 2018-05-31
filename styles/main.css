@@ -99,6 +99,14 @@ a{
 	line-height: 1.2 !important;
 }
 
+.mycursor{
+	cursor: pointer;
+}
+
+.hide-node{
+	display: none !important;
+}
+
 .navbardrop{
 	color: #fff !important;
 }
@@ -196,6 +204,11 @@ a{
 	width: 50px;
 	vertical-align: middle;
 	padding-left: 15%;
+
+/*	padding-left: 16px;
+	padding-top: 13px;
+comeback and fix button
+	*/
 }
 
 .mycard-footer{

@@ -15,15 +15,15 @@
 <div class="container">
 	<div class="row mb-5">
 		<div class="col-md p-0">
-			<div class="border myborder-color-blue p-4 boxed-darkblue-bg text-center">Upcoming Events</div>
+			<div class="border myborder-color-blue p-4 boxed-darkblue-bg text-center font-weight-bold mycursor fc-link" onclick="resources_switch_nodes('.events-form','.events-list','block',this);">Upcoming Events</div>
 		</div>
 		<div class="col-md p-0">
-			<div class="border myborder-color-blue border-left-0 p-4 text-center">Past Events</div>
+			<div class="border myborder-color-blue border-left-0 p-4 text-center mycursor fc-link" onclick="resources_switch_nodes('.events-list','.events-form','block',this);">Past Events</div>
 		</div>
 	</div>
 </div>
 
-<!-- <div class="container-fluid">
+<div class="container-fluid events-form">
 	<div class="row">
 		<div class="col-md bg-light text-secondary p-5">
 			<h4 class="font-weight-bold">Keep up to date with our Events schedule</h4>
@@ -54,9 +54,11 @@
 			</form>
 		</div>
 	</div>
-</div> -->
+</div>
 
-<div class="container-fluid pt-2 border-top">
+<!-- Christopher Wong is so amazing. -->
+
+<div class="container-fluid pt-2 border-top hide-node events-list">
 	<div class="row mx-3 my-5">
 		<div class="col-md-4"><img data-src="holder.js/306x280/industrial" class="img-fluid"/></div>
 		<div class="col-md-8">
@@ -64,6 +66,18 @@
 				<h3 class="font-weight-bold">Top 100 Digital Conferences You Should Attend In 2017</h3>
 				<p class="fc-grey fs-18 font-weight-light">
 					Last Updated: February 9, 2017 It is time to start planning what conferences to attend this year! Need to network in a new space or brush up on some skills? There are several reasons you should attend a digital conference in 2017. Are you an event organiser looking for more awesome speakers? Click here! Here are … 
+				</p>
+				<div class="mycard-button p-3"><i class="far fa-handshake"></i></div>
+			</div>
+		</div>
+	</div>	
+	<div class="row mx-3 my-5">
+		<div class="col-md-4"><img data-src="holder.js/306x280/industrial" class="img-fluid"/></div>
+		<div class="col-md-8">
+			<div class="">
+				<h3 class="font-weight-bold">Capitalism/Freedom Fastlane 2017</h3>
+				<p class="fc-grey fs-18 font-weight-light">
+					Austin, Texas
 				</p>
 				<div class="mycard-button p-3"><i class="far fa-handshake"></i></div>
 			</div>
@@ -105,6 +119,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.9.4/holder.js"></script>
+	<script src="./js/onclick.js"></script>
 
 </body>
 </html>
