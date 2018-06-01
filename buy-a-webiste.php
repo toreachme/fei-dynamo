@@ -33,7 +33,7 @@
     <div class="row">
       <div class="pl-5 pb-5">
         <span class="fs-16 text-secondary font-weight-normal">Next</span>
-        <a href="#"><h4 class="font-weight-bold fc-link">Getting Started  <span>&nbsp</span><i class="fas fa-arrow-right"></i></h4></a>
+        <a href="#"><h4 class="font-weight-bold fc-link">Getting Started  <span>&nbsp</span><i class="fas fa-arrow-right fs-20"></i></h4></a>
       </div>
     </div>
   </div>

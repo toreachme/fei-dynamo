@@ -2,6 +2,7 @@
 <html lang="en">
 <?php require_once('./static/header.php');?>
 
+<!--Top Title Conatiner fluid-->
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md text-black bg-white p-5">
@@ -12,6 +13,9 @@
 	</div>
 </div>
 
+
+
+<!--Events Tab-->
 <div class="container">
 	<div class="row mb-5">
 		<div class="col-md p-0">
@@ -23,9 +27,12 @@
 	</div>
 </div>
 
+
+
+<!--Upcoming Events Form Container-fluid-->
 <div class="container-fluid events-form">
 	<div class="row">
-		<div class="col-md bg-light text-secondary p-5">
+		<div class="col-md bg-top-grey text-secondary p-5">
 			<h4 class="font-weight-bold">Keep up to date with our Events schedule</h4>
 			<p>Please fill out the form below to be notified when we host a webinar, sponsor a conference, or speak at events. Let us know if you are interested in inviting us to speak at the event you are hosting.
 			</p>
@@ -56,8 +63,9 @@
 	</div>
 </div>
 
-<!-- Christopher Wong is so amazing. -->
 
+
+<!--Past Events Container-fluid-->
 <div class="container-fluid pt-2 border-top hide-node events-list">
 	<div class="row mx-3 my-5">
 		<div class="col-md-4"><img data-src="holder.js/306x280/industrial" class="img-fluid"/></div>
@@ -67,7 +75,7 @@
 				<p class="fc-grey fs-18 font-weight-light">
 					Last Updated: February 9, 2017 It is time to start planning what conferences to attend this year! Need to network in a new space or brush up on some skills? There are several reasons you should attend a digital conference in 2017. Are you an event organiser looking for more awesome speakers? Click here! Here are … 
 				</p>
-				<div class="mycard-button p-3"><i class="far fa-handshake"></i></div>
+				<div class="mycard-button d-table-cell pl-3"><i class="far fa-handshake"></i></div>
 			</div>
 		</div>
 	</div>	
@@ -79,12 +87,15 @@
 				<p class="fc-grey fs-18 font-weight-light">
 					Austin, Texas
 				</p>
-				<div class="mycard-button p-3"><i class="far fa-handshake"></i></div>
+				<div class="mycard-button d-table-cell pl-3"><i class="far fa-handshake"></i></div>
 			</div>
 		</div>
 	</div>
 </div>
 
+
+
+<!--Footer-->
 <div class="container-fluid bg-color sticky-footer">
 	<footer class="py-4 text-white text-center">
 		<div class="row">

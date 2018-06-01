@@ -2,6 +2,7 @@
 <html lang="en">
 <?php require_once('./static/header.php');?>
 
+<!--Top Container-fluid -->
 <div class="container-fluid">
   <div class="row">
     <div class="col-md text-black bg-white px-5 pt-4">
@@ -12,6 +13,11 @@
     </div>
   </div>
 
+<!-- 
+  ****
+  Contact Cards Row 
+  ****
+-->
   <div class="row">
     <div class="col-md-4">
       <div>
@@ -71,6 +77,12 @@
       </div>
     </div>
   </div>
+
+  <!--
+  ****
+  Map Div Row
+  ****
+  -->
   <div class="row">
     <div class="col-md" id="maptainer">
       <div class="loc-us">
@@ -84,12 +96,14 @@
       </div>
     </div>
   </div>
-</div>
+</div> 
 
 
+
+<!--Get In touch Form Container-fluid-->
 <div class="container-fluid">
   <div class="row">
-    <div class="col-md bg-light text-secondary p-5">
+    <div class="col-md bg-top-grey text-secondary p-5">
       <h4 class="font-weight-bold">Get in Touch</h4>
 
       <form>
@@ -130,6 +144,7 @@
 
 
 
+<!--Footer Container-fluid-->
 <div class="container-fluid bg-color sticky-footer">
   <footer class="py-4 text-white text-center">
     <div class="row">
