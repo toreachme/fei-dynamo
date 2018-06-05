@@ -2,6 +2,7 @@
 <html lang="en">
 <?php require_once('./static/header.php');?>
 
+<!--Top and Boxed content Container-fluid-->
 <div class="container-fluid">
   <div class="row">
     <div class="col-md text-black bg-white p-5">
@@ -30,6 +31,13 @@
       </form>
     </div>
   </div>
+
+
+  <!--
+    ******
+    Image and boxed text content
+    ******
+  -->
   <div class="row">
     <div class="col-md-6 boxed-blue-bg p-5">
       <div class="m-4">
@@ -74,6 +82,7 @@
   <div class="row">
     <h4 class="font-weight-bold pl-5">Helpful Resources</h4>
   </div>
+  
   <div class="row mt-3 mb-5 mx-3 px-2">
     <div class="col-md-3 px-1">
       <div class="border mycard-min-height">

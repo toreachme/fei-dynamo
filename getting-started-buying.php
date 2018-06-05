@@ -99,7 +99,7 @@
         <div class="footer mycard-footer p-4">
           <div class="mycard-button d-table-cell"><i class="fas fa-headphones"></i></div>
           <div class="d-table-cell">
-            <p class="mycard-title pl-2 m-0">Listen</p>
+            <p class="fs-18 font-weight-bold pl-2 m-0">Listen</p>
             <span class="fs-12 pl-2">12:00:00</span>
           </div>
         </div>
@@ -118,7 +118,7 @@
         <div class="footer mycard-footer p-4">
           <div class="mycard-button d-table-cell"><i class="fas fa-headphones"></i></div>
           <div class="d-table-cell">
-            <p class="mycard-title pl-2 m-0">Listen</p>
+            <p class="fs-18 font-weight-bold pl-2 m-0">Listen</p>
             <span class="fs-12 pl-2">12:00:00</span>
           </div>
         </div>
@@ -137,7 +137,7 @@
         <div class="footer mycard-footer p-4">
           <div class="mycard-button d-table-cell"><i class="fa fa-align-right fa-rotate-180 fa-fw"></i></div>
           <div class="d-table-cell">
-            <p class="mycard-title pl-2 pt-2 m-0">Read</p>
+            <p class="fs-18 font-weight-bold pl-2 pt-2 m-0">Read</p>
           </div>
         </div>
       </div>
@@ -155,7 +155,7 @@
         <div class="footer mycard-footer p-4">
           <div class="mycard-button d-table-cell"><i class="fa fa-align-right fa-rotate-180 fa-fw"></i></div>
           <div class="d-table-cell">
-            <p class="mycard-title pl-2 pt-2 m-0">Read</p>
+            <p class="fs-18 font-weight-bold pl-2 pt-2 m-0">Read</p>
           </div>
         </div>
       </div>

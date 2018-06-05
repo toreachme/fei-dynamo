@@ -31,7 +31,7 @@
         <h4 class="font-weight-bold">Building and Selling a Six-Figure SaaS Business with Brian Casel</h4>
         <p class="boxed-content">Today we had Brian Casel on the show, who recently sold a six-figure SaaS business through FE International. Brian talks about...</p>
         <div class="mycard-button bg-white text-dark d-table-cell"><i class="fas fa-headphones"></i></div>
-        <p class="mycard-title pl-2 pt-2 m-0 d-table-cell text-white">Listen</p>
+        <p class="fs-18 font-weight-bold pl-2 pt-2 m-0 d-table-cell text-white">Listen</p>
       </div>
     </div>
   </div>
@@ -50,7 +50,7 @@
           Last Updated: February 9, 2017 It is time to start planning what conferences to attend this year! Need to network in a new space or brush up on some skills? There are several reasons you should attend a digital conference in 2017. Are you an event organiser looking for more awesome speakers? Click here! Here are … 
         </p>
         <div class="mycard-button d-table-cell pl-3"><i class="fa fa-align-right fa-rotate-180 fa-fw"></i></div>
-        <p class="mycard-title pl-2 pt-2 m-0 d-table-cell">Read</p>
+        <p class="fs-18 font-weight-bold pl-2 pt-2 m-0 d-table-cell">Read</p>
       </div>
     </div>
   </div>
@@ -60,7 +60,7 @@
       <div class="font-weight-light mb-4">Oct 27, 2015</div>
       <h3 class="font-weight-bold mb-5">Selling Businesses for 7 Figures with Thomas Smale</h3>
       <div class="mycard-button d-table-cell"><i class="fas fa-headphones"></i></div>
-      <p class="mycard-title pl-2 pt-2 m-0 d-table-cell">Listen</p>
+      <p class="fs-18 font-weight-bold pl-2 pt-2 m-0 d-table-cell">Listen</p>
     </div>
   </div>
   <div class="row border-top">
@@ -68,7 +68,7 @@
       <div class="font-weight-light mb-4">Oct 15, 2015</div>
       <h3 class="font-weight-bold mb-5">How To Exit Your Online Business</h3>
       <div class="mycard-button d-table-cell"><i class="fas fa-headphones"></i></div>
-      <p class="mycard-title pl-2 pt-2 m-0 d-table-cell">Listen</p>
+      <p class="fs-18 font-weight-bold pl-2 pt-2 m-0 d-table-cell">Listen</p>
     </div>
   </div>
 
@@ -82,7 +82,7 @@
           Kai Davis was on the show today – he is an expert in audience outreach, with a track record of 30% – 60% placement rate for clients by helping his clients to secure podcast recordings, editorial features and much more. Having experience consulting for 5-7 figure e-commerce businesses, Kai discusses his top two goals in … 
         </p>
         <div class="mycard-button d-table-cell"><i class="fas fa-headphones"></i></div>
-        <p class="mycard-title pl-2 pt-2 m-0 d-table-cell">Listen</p>
+        <p class="fs-18 font-weight-bold pl-2 pt-2 m-0 d-table-cell">Listen</p>
       </div>
     </div>
   </div>

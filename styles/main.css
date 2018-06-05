@@ -31,15 +31,19 @@ a{
 
 /*MY BG COLORS*/
 .bg-color{
-	background-color: #03082a !important;
+	background-color: #03082A !important;
 	/*background-color: rgba(3, 8, 42, 0.93) !important;*/
 }
 .bg-top-grey{
-	background-color: #ECECEB;
+	background-color: #ECECEB !important;
+}
+
+.bg-top-green{
+	background-color: #2ba865 !important;
 }
 
 .bg-card-grey{
-	background-color: #6f6f6f;
+	background-color: #6f6f6f !important;
 }
 
 .myborder-color-blue{
@@ -50,48 +54,56 @@ a{
 
 /*MY Font Color*/
 .fc-grey{
-	color: #6f6f6f;
+	color: #6f6f6f !important;
+}
+
+.fc-dark-blue{
+	color: #03082A !important;
 }
 
 .fc-link{
-	color: #1517CA;
+	color: #1517CA !important;
 }
 
 .fc-color-blue{
-	color: #182DBD;
+	color: #182DBD !important;
+}
+
+.fc-color-red{
+	color: red !important;
 }
 
 /*My Fonts Size*/
 .fs-14{
-	font-size: 14px;
+	font-size: 14px !important;
 }
 
 .fs-16{
-	font-size: 16px;
+	font-size: 16px !important;
 }
 
 .fs-12{
-	font-size: 12px;
+	font-size: 12px !important;
 }
 
 .fs-18{
-	font-size: 18px;
+	font-size: 18px !important;
 }
 
 .fs-20{
-	font-size: 20px;
+	font-size: 20px !important;
 }
 
 .fs-24{
-	font-size: 24px;
+	font-size: 24px !important;
 }
 
 .fs-46{
-	font-size: 46px;
+	font-size: 46px !important;
 }
 
 .fs-49{
-	font-size: 49px;
+	font-size: 49px !important;
 }
 
 
@@ -126,6 +138,7 @@ a{
 
 .border-top { border-top: 1px solid #e5e5e5; }
 .border-bottom { border-bottom: 1px solid #e5e5e5; }
+.border-bottom-profile {border-bottom: solid 2px #1517CA;}
 .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
 .bottom-50{ bottom: 50px; }
 
@@ -149,8 +162,8 @@ a{
 }
 
 .boxed-darkblue-bg{
-	background-color: #0C0A9B;
-	color: #fff;
+	background-color: #0C0A9B !important;
+	color: #fff !important;
 }
 
 .boxed-bg-dark{
