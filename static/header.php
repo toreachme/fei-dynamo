@@ -18,20 +18,31 @@
 <body>
   <div class="align-items-center bg-top-grey font-weight-normal fs-14">
     <div class="d-flex justify-content-end">
-      <div class="p-2">(855) 483-3547</div>
-      <div class="p-2 border-left border-secondary">Sign up</div>
-      <div class="p-2 border-left border-secondary">Log In</div>
+      <div class="p-1">(855) 483-3547</div>
+      <div class="p-1 border-left border-secondary">Sign up</div>
+      <div class="p-1 border-left border-secondary">Log In</div>
     </div>
   </div>
   <div class="d-flex flex-column flex-md-row align-items-center p-2 px-md-4 border-bottom box-shadow bg-color text-white">
     <h5 class="my-0 mr-md-auto font-weight-normal">Company name</h5>
-    <nav class="navbar navbar-expand-sm my-2 my-md-0 mr-md-3">
+    <nav class="navbar navbar-expand-sm my-2 my-md-0 mr-md-3 fs-18">
       <!-- Links -->
       <ul class="navbar-nav">
         <!-- Dropdown -->
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle navbardrop" href="#" data-toggle="dropdown">
-            Buy a Website
+            Services
+          </a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Link 1</a>
+            <a class="dropdown-item" href="#">Link 2</a>
+            <a class="dropdown-item" href="#">Link 3</a>
+          </div>
+        </li>  
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle navbardrop" href="#" data-toggle="dropdown">
+            Acquire
           </a>
           <div class="dropdown-menu">
             <a class="dropdown-item" href="#">Link 1</a>
@@ -42,7 +53,7 @@
 
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle navbardrop" href="#"  data-toggle="dropdown">
-            Sell a Website
+            Divest
           </a>
           <div class="dropdown-menu">
             <a class="dropdown-item" href="#">Link 1</a>
@@ -62,7 +73,7 @@
           </div>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggl navbardrop" href="#" data-toggle="dropdown">
+          <a class="nav-link dropdown-toggle navbardrop" href="#" data-toggle="dropdown">
             About
           </a>
           <div class="dropdown-menu">
@@ -71,15 +82,10 @@
             <a class="dropdown-item" href="#">Link 3</a>
           </div>
         </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle navbardrop" href="#" data-toggle="dropdown">
+        <li class="nav-item">
+          <a class="nav-link text-white" href="#" data-toggle="dropdown">
             Contact
           </a>
-          <div class="dropdown-menu">
-            <a class="dropdown-item" href="#">Link 1</a>
-            <a class="dropdown-item" href="#">Link 2</a>
-            <a class="dropdown-item" href="#">Link 3</a>
-          </div>
         </li>
       </ul>
     </nav>

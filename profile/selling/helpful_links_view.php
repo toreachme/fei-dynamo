@@ -6,10 +6,10 @@
 	<div class="my-3 mx-3">
 		<ul class="nav">
 			<li class="nav-item">
-				<a class="nav-link fc-link border-bottom-profile font-weight-bold" href="#">Buying</a>
+				<a class="nav-link fc-link" href="#">Buying</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link fc-link" href="#">Selling</a>
+				<a class="nav-link fc-link border-bottom-profile font-weight-bold" href="#">Selling</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link fc-link" href="#">Recent Activity</a>
@@ -39,7 +39,7 @@
 			</a>
 		</div>
 		<div class="col-md p-0">
-			<a href="#" class="fc-link">
+			<a href="http://localhost/FE/profile/selling/get_a_valuation.php" class="fc-link">
 				<div id="int-btn" class="border myborder-color-blue border-left-0 p-4 text-center mycursor tab-btn">
 					Get a Valuation
 				</div>

@@ -15,7 +15,8 @@ a{
 
 .form-control{
 	border-radius: 0px !important;
-	padding: 12px !important; 
+	padding: 12px !important;
+	border: 1px solid #6f6f6f !important; 
 }
 
 .btn-success{
@@ -27,6 +28,9 @@ a{
 	min-height: 48px;
 }
 
+/*select{
+	min-height: 48px !important;
+}*/
 
 
 /*MY BG COLORS*/
@@ -55,6 +59,10 @@ a{
 /*MY Font Color*/
 .fc-grey{
 	color: #6f6f6f !important;
+}
+
+.fc-dark-grey{
+	color: #5B5B5B !important;
 }
 
 .fc-dark-blue{
@@ -136,15 +144,15 @@ a{
 	max-height: 480px;
 }
 
-.border-top { border-top: 1px solid #e5e5e5; }
-.border-bottom { border-bottom: 1px solid #e5e5e5; }
+.border-top { border-top: 1px solid #e5e5e5 !important; }
+.border-bottom { border-bottom: 2px solid #ECECEB !important; }
 .border-bottom-profile {border-bottom: solid 2px #1517CA;}
 .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
 .bottom-50{ bottom: 50px; }
 
 .myselect-input{
 	outline: 0;
-	height: 48px !important;
+	height: 50px !important;
 	box-sizing: border-box;
 	-webkit-appearance: none;
 	-moz-appearance: none;

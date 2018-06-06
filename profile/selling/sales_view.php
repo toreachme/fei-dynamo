@@ -33,12 +33,12 @@
 	<div class="row mb-5">
 		<div class="col-md p-0">
 			<a href="http://localhost/FE/profile/selling/sales_view.php" class="text-white">
-				<div id="pr-btn" class="border myborder-color-blue p-4 boxed-darkblue-bg text-center mycursor font-weight-bold tab-btn"><span class="pr-2"><i class="fas fa-lock"></i></span>Sales
+				<div id="pr-btn" class="border myborder-color-blue p-4 boxed-darkblue-bg text-center mycursor font-weight-bold tab-btn"><!-- <span class="pr-2"><i class="fas fa-lock"></i></span> -->Sales
 				</div>
 			</a>
 		</div>
 		<div class="col-md p-0">
-			<a href="#" class="fc-link">
+			<a href="http://localhost/FE/profile/selling/get_a_valuation.php" class="fc-link">
 				<div id="int-btn" class="border myborder-color-blue border-left-0 p-4 text-center mycursor tab-btn"><!-- <span class="pr-2"><i class="fas fa-lock"></i></span> -->Get a Valuation
 				</div>
 			</a>
