@@ -65,7 +65,7 @@
 					Due Diligence
 				</div>
 				<div class="body px-4 pt-3">
-					<div class="pb-2 fs-14 fc-grey">SaaS - B2B <span class="float-right"><i class="fas fa-exclamation-circle fs-24 fc-color-red"></i></span></div>
+					<div class="mycard-subheader pb-2 fs-14 fc-grey">SaaS - B2B <span class="float-right"><i class="fas fa-exclamation-circle fs-24 fc-color-red"></i></span></div>
 					<div class="mycard-title mb-2 fc-link">App and Software Blog</div>
 					<div class="fs-14 font-weight-bold fc-dark-blue">
 						<div class="border-bottom py-3">
@@ -92,7 +92,7 @@
 					Valuation
 				</div>
 				<div class="body px-4 pt-3">
-					<div class="pb-2 fs-14 fc-grey">SaaS - B2B</div>
+					<div class="mycard-subheader pb-2 fs-14 fc-grey">SaaS - B2B</div>
 					<div class="mycard-title mb-2 fc-link">My Other Business Name</div>
 					<div class="fs-14 font-weight-bold fc-dark-blue">
 						<div class="border-bottom py-3">

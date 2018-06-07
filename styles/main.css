@@ -28,9 +28,40 @@ a{
 	min-height: 48px;
 }
 
+.btn-x-pad{
+	padding: 8px 55px !important;
+}
+
 /*select{
 	min-height: 48px !important;
 }*/
+
+
+/*Changed Jquery UI CSS*/
+.ui-slider-horizontal .ui-slider-handle{
+	top:-0.7em !important;
+}
+
+.ui-slider .ui-slider-handle{
+	width: 2.2em !important;
+	height: 2.2em !important;
+}
+
+.ui-slider-horizontal {
+    height: 1em !important;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default{
+	border-radius: 50% !important;
+}
+
+.ui-widget-content{
+	background-color: #06B66F;
+}
+
+.slider-range-max{
+	width: 80% !important;
+}
 
 
 /*MY BG COLORS*/
@@ -159,6 +190,10 @@ a{
 	appearance: none;
 }
 
+.full-width{
+	width: 100% !important;
+}
+
 
 
 
@@ -243,6 +278,11 @@ a{
 
 .mycard-min-height{
 	min-height: 384px;
+}
+
+.mycard-subheader{
+	height: 30px;
+	max-height: 29px;
 }
 
 

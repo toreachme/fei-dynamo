@@ -7,7 +7,7 @@
   <div class="row">
     <div class="col-md text-black bg-white p-5">
       <h1 class="font-weight-bold fs-49">Getting Started: Selling</h1>
-      <p class="text-secondary fs-20"> Get a free valuation and learn more about the selling process</p>
+      <p class="fc-grey fs-20 pl-1"> Get a free valuation and learn more about the selling process</p>
     </div>
   </div>
   <div class="row">
@@ -216,7 +216,7 @@
 
   <div class="row border-top">
     <div class="py-5">
-      <span class="fs-16 text-secondary font-weight-normal">Next</span>
+      <span class="fs-16 fc-grey font-weight-normal">Next</span>
       <a href="#"><h4 class="font-weight-bold fc-link">View listings <span>&nbsp</span><i class="fas fa-arrow-right fs-20"></i></h4></a>
     </div>
   </div>
